@@ -13,8 +13,10 @@ Django Backend Developer Intern Assessment - Authentication and Testing
 ## Setup
 
 1. Install dependencies:
-   `pip install -r requirements.txt`
+
+```bash
+   pip install -r requirements.txt
 
 ## Running Tests
-
-`pytest`
+pytest
+```

@@ -4,6 +4,7 @@
 
 Django Backend Developer Intern Assessment - Authentication and Testing
 
+```bash
 ## Github Repo
 
 1.  Clone the repository:
@@ -11,9 +12,11 @@ Django Backend Developer Intern Assessment - Authentication and Testing
 
 ## Setup
 
-1. Install dependencies:
+2. Install dependencies:
 
-`pip install -r requirements.txt`
+pip install -r requirements.txt
 
-2. Running Tests
-   `pytest`
+##Pytest
+3. To run the application, use the following command:
+   pytest
+```

@@ -8,13 +8,13 @@ Django Backend Developer Intern Assessment - Authentication and Testing
 
 1.  Clone the repository:
 
-git clone https://github.com/moxex/your_repository.git
+`git clone https://github.com/moxex/your_repository.git`
 
 ## Setup
 
 1. Install dependencies:
-   pip install -r requirements.txt
+   `pip install -r requirements.txt`
 
 ## Running Tests
 
-pytest
+`pytest`
